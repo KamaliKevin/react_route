@@ -1,3 +1,9 @@
+# Main use
+This project can search for some Rick & Morty characters
+
+# Resources
+Rick & Morty API: <a href="https://rickandmortyapi.com">https://rickandmortyapi.com</a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
